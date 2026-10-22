@@ -29,6 +29,16 @@
 <a href="https://github.com/khadijaikram-3/Chart-Visualizer-cpp"><img align="top" src="assets/p-m-chart.svg" width="100%" alt="Chart-Visualizer-cpp: C++ graphics project visualizing data in 10 chart types." /></a>
 <a href="https://github.com/khadijaikram-3/Khadija-Ikram-Portfolio"><img align="top" src="assets/p-m-portfolio.svg" width="100%" alt="Khadija-Ikram-Portfolio: personal portfolio site." /></a>
 
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/khadijaikram-3/khadijaikram-3/main/assets/activity.svg"
+    width="100%"
+    alt="Khadija's GitHub activity graph"
+  />
+</p>
+
+
 <img src="assets/h-contact.svg" width="100%" alt="~/contact" />
 <p>
   <a href="https://www.linkedin.com/in/khadija-ikram-cs"><img src="assets/c-linkedin.svg" height="44" alt="LinkedIn: /in/khadija-ikram-cs" /></a>

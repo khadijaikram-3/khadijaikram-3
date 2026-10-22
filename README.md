@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/khadijakikram-3">
+  <a href="https://github.com/khadijaikram-3">
     <img src="https://img.shields.io/badge/GitHub-KI-0D2030?style=for-the-badge&logo=github&logoColor=E8C36A">
   </a>
   <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-0D2030?style=for-the-badge&labelColor=0D2030&color=9B793B">
@@ -123,12 +123,12 @@ A growing knowledge base of web security labs.
 ## `05` — GITHUB TELEMETRY
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khadijakikram-3&show_icons=true&hide_border=true&bg_color=06111F&title_color=E8C36A&text_color=C4D0DF&icon_color=B99246&ring_color=B99246" alt="GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijakikram-3&layout=compact&hide_border=true&bg_color=06111F&title_color=E8C36A&text_color=C4D0DF" alt="Most-used languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khadijaikram-3&show_icons=true&hide_border=true&bg_color=06111F&title_color=E8C36A&text_color=C4D0DF&icon_color=B99246&ring_color=B99246" alt="GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijaikram-3&layout=compact&hide_border=true&bg_color=06111F&title_color=E8C36A&text_color=C4D0DF" alt="Most-used languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=khadijakikram-3&hide_border=true&background=06111F&ring=B99246&fire=E8C36A&currStreakLabel=E8C36A&sideLabels=C4D0DF&currStreakNum=E8C36A&sideNums=C4D0DF&dates=8396AB" alt="GitHub contribution streak">
+  <img src="https://streak-stats.demolab.com?user=khadijaikram-3&hide_border=true&background=06111F&ring=B99246&fire=E8C36A&currStreakLabel=E8C36A&sideLabels=C4D0DF&currStreakNum=E8C36A&sideNums=C4D0DF&dates=8396AB" alt="GitHub contribution streak">
 </p>
 
 ## `06` — THE CODEX

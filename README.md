@@ -1,152 +1,49 @@
-
-<!-- KI | CYBER OPERATIONS -->
+<!--
+  KHADIJA IKRAM — profile README
+  Every visual lives in /assets as a self-contained SVG (fonts are converted to outlines,
+  so it renders identically on every device). Edit the repo links below if a name differs.
+-->
 
 <p align="center">
-  <img src="assets/ki-logo.png" width="135" alt="KI monogram">
+  <img src="assets/hero.svg" width="100%" alt="KI monogram in gold on midnight navy. Khadija Ikram. Computer Science student building toward cybersecurity engineering." />
+</p>
+
+<img src="assets/h-focus.svg" width="100%" alt="~/focus" />
+<img src="assets/focus.svg" width="100%" alt="Learn deeply. Test ethically. Document everything. Focus areas: web application security, PortSwigger Web Security Academy labs, Kali Linux and Python tooling, CTF challenges and write-ups, AI-assisted security investigation." />
+
+<img src="assets/h-projects.svg" width="100%" alt="~/projects" />
+<a href="https://github.com/khadijaikram-3/ThreatIQ"><img align="top" src="assets/p-threatiq.svg" width="100%" alt="ThreatIQ: AI-assisted security investigation platform." /></a>
+<a href="https://github.com/khadijaikram-3/Revel"><img align="top" src="assets/p-revel.svg" width="100%" alt="Revel: website security assessment project." /></a>
+<a href="https://github.com/khadijaikram-3/Website-Health-Security-Checker"><img align="top" src="assets/p-checker.svg" width="100%" alt="Website Health Security Checker: Python tool for website health and security checks." /></a>
+<a href="https://github.com/khadijaikram-3/Python-Security-Tools"><img align="top" src="assets/p-pytools.svg" width="100%" alt="Python Security Tools: security scripting and automation." /></a>
+<a href="https://github.com/khadijaikram-3/PortSwigger-Notes"><img align="top" src="assets/p-portswigger.svg" width="100%" alt="PortSwigger Notes: notes and learnings from web security labs." /></a>
+<a href="https://github.com/khadijaikram-3/CTF-Writeups"><img align="top" src="assets/p-ctf.svg" width="100%" alt="CTF Write-ups: documented challenge solutions and methodology." /></a>
+<a href="https://github.com/khadijaikram-3/Cyber-Journey"><img align="top" src="assets/p-journey.svg" width="100%" alt="Cyber Journey: my cybersecurity learning journey, in public." /></a>
+<a href="https://github.com/khadijaikram-3/cyber-secure-website"><img align="top" src="assets/p-secure.svg" width="100%" alt="Cyber-secure Website: security-focused web development." /></a>
+
+<img src="assets/h-toolkit.svg" width="100%" alt="~/toolkit" />
+<img src="assets/toolkit.svg" width="100%" alt="Languages: Python, C++, JavaScript, HTML and CSS. Security: Burp Suite, OWASP Top 10, Kali Linux, PortSwigger. Workflow: Linux, Git and GitHub, write-ups." />
+
+<img src="assets/h-more.svg" width="100%" alt="~/other-builds" />
+<a href="https://github.com/khadijaikram-3/Nexora"><img align="top" src="assets/p-m-nexora.svg" width="100%" alt="Nexora: software engineering project." /></a>
+<a href="https://github.com/khadijaikram-3/Chart-Visualizer-cpp"><img align="top" src="assets/p-m-chart.svg" width="100%" alt="Chart-Visualizer-cpp: C++ graphics project visualizing data in 10 chart types." /></a>
+<a href="https://github.com/khadijaikram-3/Khadija-Ikram-Portfolio"><img align="top" src="assets/p-m-portfolio.svg" width="100%" alt="Khadija-Ikram-Portfolio: personal portfolio site." /></a>
+
+<img src="assets/h-contact.svg" width="100%" alt="~/contact" />
+<p>
+  <a href="https://www.linkedin.com/in/khadija-ikram-cs"><img src="assets/c-linkedin.svg" height="44" alt="LinkedIn: /in/khadija-ikram-cs" /></a>
+  <a href="mailto:mkhadijaikram333@gmail.com"><img src="assets/c-email.svg" height="44" alt="Email: mkhadijaikram333@gmail.com" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:06111F,55:10283B,100:8A692F&text=KHADIJA%20IKRAM&fontColor=E8C36A&fontSize=48&fontAlignY=42&desc=CYBERSECURITY%20%2F%20RESEARCH%20%2F%20ENGINEERING&descSize=13&descColor=D6BD82&descAlignY=62&stroke=B99246&strokeWidth=1" width="100%" alt="Khadija Ikram cyber operations banner">
+  <img src="assets/footer.svg" width="100%" alt="Think like an attacker. Build like an engineer." />
 </p>
+
+<!--
+  OPTIONAL — live activity graph (third-party service; remove if it ever fails to load).
+  Uncomment to add it between ~/other-builds and ~/contact.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=E8C36A&center=true&vCenter=true&width=650&lines=Exploring+the+world+of+cybersecurity;Learning+web+application+security;Building+Python+security+tools;Documenting+every+step+of+the+journey" alt="Animated introduction">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khadijaikram-3&bg_color=061625&color=D5DFEA&line=E8C36A&point=E8C36A&area=true&area_color=E8C36A&hide_border=true&radius=4" width="100%" alt="GitHub contribution activity graph" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/khadijaikram-3">
-    <img src="https://img.shields.io/badge/GitHub-KI-0D2030?style=for-the-badge&logo=github&logoColor=E8C36A">
-  </a>
-  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-0D2030?style=for-the-badge&labelColor=0D2030&color=9B793B">
-  <img src="https://img.shields.io/badge/MODE-ALWAYS%20LEARNING-0D2030?style=for-the-badge&color=9B793B">
-</p>
-
----
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-## `01` — SYSTEM PROFILE
-
-Hey, I'm **Khadija Ikram**.
-
-A developer growing into cybersecurity through hands-on labs, security-focused projects, and technical documentation.
-
-- **Web Security:** Learning vulnerability discovery and testing.
-- **Offensive Security:** Practicing on authorized labs and CTF challenges.
-- **Security Engineering:** Building Python scripts and practical tools.
-- **Research:** Turning lessons into notes and reproducible write-ups.
-
-> Learn deeply. Test ethically. Document everything.
-
-</td>
-<td width="42%" valign="top">
-
-## `02` — CURRENT FOCUS
-
-```text
-[01] WEB APPLICATION SECURITY
-     SQLi / XSS / Authentication
-
-[02] SECURITY TOOLING
-     Python / Linux / Automation
-
-[03] PRACTICAL RESEARCH
-     CTF / PortSwigger / Write-ups
-
-[04] LONG-TERM GOAL
-     Strong security foundations
-```
-
-</td>
-</tr>
-</table>
-
-## `03` — SELECTED OPERATIONS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ ThreatIQ
-
-Python security project.
-
-[ VIEW REPOSITORY ↗](https://github.com/khadijakikram-3/ThreatIQ)
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Python Security Tools
-
-Scripts for security automation and reconnaissance.
-
-[ VIEW REPOSITORY ↗](https://github.com/khadijakikram-3/python-security-tools)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ CTF Write-ups
-
-Challenge solutions, methodology, and lessons learned.
-
-[ VIEW REPOSITORY ↗](https://github.com/khadijakikram-3/ctf-writeups)
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ PortSwigger Notes
-
-A growing knowledge base of web security labs.
-
-[ VIEW REPOSITORY ↗](https://github.com/khadijakikram-3/portswigger-notes)
-
-</td>
-</tr>
-</table>
-
-## `04` — TECH ARSENAL
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,js,html,css&theme=dark" alt="Technology icons">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite-Exploring-0D2030?style=flat-square&logo=burpsuite&logoColor=E8C36A">
-  <img src="https://img.shields.io/badge/OWASP-Learning-0D2030?style=flat-square&logo=owasp&logoColor=E8C36A">
-  <img src="https://img.shields.io/badge/Kali%20Linux-Practicing-0D2030?style=flat-square&logo=kalilinux&logoColor=E8C36A">
-</p>
-
-## `05` — GITHUB TELEMETRY
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khadijaikram-3&show_icons=true&hide_border=true&bg_color=06111F&title_color=E8C36A&text_color=C4D0DF&icon_color=B99246&ring_color=B99246" alt="GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijaikram-3&layout=compact&hide_border=true&bg_color=06111F&title_color=E8C36A&text_color=C4D0DF" alt="Most-used languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=khadijaikram-3&hide_border=true&background=06111F&ring=B99246&fire=E8C36A&currStreakLabel=E8C36A&sideLabels=C4D0DF&currStreakNum=E8C36A&sideNums=C4D0DF&dates=8396AB" alt="GitHub contribution streak">
-</p>
-
-## `06` — THE CODEX
-
-- [Cyber Journey](https://github.com/khadijakikram-3/cyber-journey) — learning roadmap and progress notes.
-- [Website Health Security Checker](https://github.com/khadijakikram-3/Website-Health-Security-Checker) — website security checks.
-- [Cyber-secure Website](https://github.com/khadijakikram-3/cyber-secure-website) — security-focused web development.
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:B99246,100:06111F&section=footer" width="100%" alt="">
-</p>
-
-<p align="center">
-  <samp>THINK LIKE AN ATTACKER. BUILD LIKE AN ENGINEER.</samp>
-</p>
-
-<p align="center">
-  <sub>KI / CYBER OPERATIONS · LEARN / INVESTIGATE / BUILD</sub>
-</p>
+-->

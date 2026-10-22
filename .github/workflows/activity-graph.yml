@@ -1,0 +1,32 @@
+
+name: Update Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: khadijaikram-3
+          options: "bg_color=071522&color=D5DFEA&line=E8C36A&point=E8C36A&area=true&area_color=E8C36A&hide_border=true&title_color=E8C36A&custom_title=ACTIVITY%20LOG"
+          output_path: assets/activity.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated graph
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update GitHub activity graph"
+          file_pattern: assets/activity.svg

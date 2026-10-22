@@ -13,7 +13,7 @@
 
 <img src="assets/h-projects.svg" width="100%" alt="~/projects" />
 <a href="https://github.com/khadijaikram-3/ThreatIQ"><img align="top" src="assets/p-threatiq.svg" width="100%" alt="ThreatIQ: AI-assisted security investigation platform." /></a>
-<a href="https://github.com/khadijaikram-3/Revel"><img align="top" src="assets/p-revel.svg" width="100%" alt="Revel: website security assessment project." /></a>
+<a href="https://github.com/khadijaikram-3/revel_v1"><img align="top" src="assets/p-revel.svg" width="100%" alt="Revel: website security assessment project." /></a>
 <a href="https://github.com/khadijaikram-3/Website-Health-Security-Checker"><img align="top" src="assets/p-checker.svg" width="100%" alt="Website Health Security Checker: Python tool for website health and security checks." /></a>
 <a href="https://github.com/khadijaikram-3/Python-Security-Tools"><img align="top" src="assets/p-pytools.svg" width="100%" alt="Python Security Tools: security scripting and automation." /></a>
 <a href="https://github.com/khadijaikram-3/PortSwigger-Notes"><img align="top" src="assets/p-portswigger.svg" width="100%" alt="PortSwigger Notes: notes and learnings from web security labs." /></a>

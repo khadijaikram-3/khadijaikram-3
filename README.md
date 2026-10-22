@@ -24,7 +24,7 @@
 <img src="files/h-toolkit.svg" width="100%" alt="~/toolkit" />
 <img src="files/toolkit.svg" width="100%" alt="Languages: Python, C++, JavaScript, HTML and CSS. Security: Burp Suite, OWASP Top 10, Kali Linux, PortSwigger. Workflow: Linux, Git and GitHub, write-ups." />
 
-<img src="files/h-more.svg" width="100%" alt="~/other-builds" />
+<img src="file/h-more.svg" width="100%" alt="~/other-builds" />
 <a href="https://github.com/khadijaikram-3/Nexora"><img align="top" src="files/p-m-nexora.svg" width="100%" alt="Nexora: software engineering project." /></a>
 <a href="https://github.com/khadijaikram-3/Chart-Visualizer-cpp"><img align="top" src="files/p-m-chart.svg" width="100%" alt="Chart-Visualizer-cpp: C++ graphics project visualizing data in 10 chart types." /></a>
 <a href="https://github.com/khadijaikram-3/Khadija-Ikram-Portfolio"><img align="top" src="files/p-m-portfolio.svg" width="100%" alt="Khadija-Ikram-Portfolio: personal portfolio site." /></a>

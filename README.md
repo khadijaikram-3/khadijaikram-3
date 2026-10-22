@@ -7,7 +7,6 @@
 <p align="center">
   <img src="assets/hero.svg" width="100%" alt="KI monogram in gold on midnight navy. Khadija Ikram. Computer Science student building toward cybersecurity engineering." />
 </p>
-
 <img src="assets/h-focus.svg" width="100%" alt="~/focus" />
 <img src="assets/focus.svg" width="100%" alt="Learn deeply. Test ethically. Document everything. Focus areas: web application security, PortSwigger Web Security Academy labs, Kali Linux and Python tooling, CTF challenges and write-ups, AI-assisted security investigation." />
 
@@ -29,7 +28,7 @@
 <a href="https://github.com/khadijaikram-3/Chart-Visualizer-cpp"><img align="top" src="assets/p-m-chart.svg" width="100%" alt="Chart-Visualizer-cpp: C++ graphics project visualizing data in 10 chart types." /></a>
 <a href="https://github.com/khadijaikram-3/Khadija-Ikram-Portfolio"><img align="top" src="assets/p-m-portfolio.svg" width="100%" alt="Khadija-Ikram-Portfolio: personal portfolio site." /></a>
 
-
+<img src="assets/h-activity.svg" width="100%" alt="~/activity" />
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/khadijaikram-3/khadijaikram-3/main/assets/activity.svg"
